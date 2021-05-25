@@ -1,0 +1,98 @@
+:root{
+    --dark: #161616;
+    --skyblue: #3DCFD3;
+    --lightdark: #313741;
+}
+.details{
+    margin-top: 70px;
+    background-color: var(--lightdark);
+    padding: 50px 0;
+}
+.details img{
+    width: 70%;
+}
+.profile{
+    color: white ;
+}
+.profile h1{
+    padding-top: px;
+}
+.profile p{
+    padding: 45px 0;
+    text-align: justify;
+}
+.skill{
+    background-color: var(--lightdark);
+    color: white;
+    padding: 80px 0;
+}
+.skill-header{
+    padding: 30px 0;
+    margin-bottom: 30px;
+}
+.skill-header h2{
+    background: -webkit-linear-gradient(left, #99cc00, #ffff66);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.skill-set{
+    margin-bottom: 70px;
+}
+.about-me{
+    padding: 50px 0;
+}
+.about-me p{
+    text-align: justify;
+    margin-top: 30px;
+}
+.about-list{
+    padding: 0px;
+    margin-top: 30px;
+}
+.about-list ul{
+    margin-top: 30px; 
+}
+.about-me li{
+    list-style: none;
+    margin-bottom: 5px;    
+}
+.about-me li i{
+    padding: 0 12px 0 0;
+    position: relative;
+    top: 1px;
+    color: #99cc00;
+}
+.project-showcase{
+    padding: 50px 0;
+}
+.project-showcase h2{
+    padding: 0 0px 0 10px;
+    width: 310px;
+    border-bottom: 2px solid royalblue;
+    background: -webkit-linear-gradient(left, #99cc00, #000066);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.project-header{
+    margin-bottom: 30px;
+
+}
+
+.footer{
+    background: var(--lightdark);
+    color: white;
+    padding: 50px 0;
+    margin-top: 50px;
+}
+.footer i{
+    padding: 5px 10px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.margin-form{
+    margin-bottom: 40px;
+}
+
+
